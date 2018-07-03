@@ -93,7 +93,7 @@
 
 0-Placa: nnx3801
 1-Regular: SIM / Placa: nnx3801
-2-Renavam: 
+2-Renavam: 1234
 3-Chassi: 
 4-Marca / Modelo: CLASSIC
 5-Cor: Preta
