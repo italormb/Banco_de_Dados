@@ -1,5 +1,5 @@
-0-Placa: fmw3777
-1-Regular: NAO / Placa: fmw3777
+0-Placa: FMW3777
+1-Regular: NAO / Placa: FMW3777
 2-Renavam: 
 3-Chassi: 1111111
 4-Marca / Modelo: BMW
@@ -29,8 +29,8 @@
 
 
 
-0-Placa: fqf9941
-1-Regular: NAO / Placa: fqf9941
+0-Placa: FQF9941
+1-Regular: NAO / Placa: FQF9941
 2-Renavam: 
 3-Chassi: 
 4-Marca / Modelo: Onix - CHEVROLET
@@ -60,8 +60,8 @@
 
 
 
-0-Placa: jsf1084
-1-Regular: NAO / Placa: jsf1084
+0-Placa: JSF1084
+1-Regular: NAO / Placa: JSF1084
 2-Renavam: 123456789
 3-Chassi: 
 4-Marca / Modelo: BMW
@@ -91,8 +91,8 @@
 
 
 
-0-Placa: nnx3801
-1-Regular: SIM / Placa: nnx3801
+0-Placa: NNX3801
+1-Regular: SIM / Placa: NNX3801
 2-Renavam: 1234
 3-Chassi: ggggggg
 4-Marca / Modelo: CLASSIC
