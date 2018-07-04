@@ -1,5 +1,5 @@
 0-Placa: FMW3777
-1-Regular: NAO / Placa: FMW3777
+1-Recurso de Influência: Não recursos de multas até hoje.
 2-Renavam: 
 3-Chassi: 1111111
 4-Marca / Modelo: BMW
@@ -25,12 +25,12 @@
 24-Serviços do DETRAN: Não existe (m) débito (s) de serviço (s) até ao momento. 
 25-Parcelamento de Serviços do DETRAN: Não existe (m) débito (s) de Parcelamento de Serviço (s) até o presente momento. 
 26-Infrações: Não existe (m) débito (s) de Multa até o presente momento. 
-27-Recurso de Influência: Não recursos de multas até hoje.
+27-Regular: NAO / Placa: FMW3777
 
 
 
 0-Placa: FQF9941
-1-Regular: NAO / Placa: FQF9941
+1-Recurso de Infra-estruturas: Existem debitos de infrações.
 2-Renavam: 
 3-Chassi: 
 4-Marca / Modelo: Onix - CHEVROLET
@@ -56,12 +56,12 @@
 24-Serviços do DETRAN: Não existe (m) débito (s) de serviço (s) até ao momento. 
 25-Parcelamento de Serviços do DETRAN: Não existe (m) débito (s) de Parcelamento de Serviço (s) até o presente momento. 
 26-Infrações: Não existe (m) débito (s) de Multa até o presente momento. 
-27-Recurso de Infra-estruturas: Existem debitos de infrações.
+27-Regular: NAO / Placa: FQF9941
 
 
 
 0-Placa: JSF1084
-1-Regular: NAO / Placa: JSF1084
+1-Recurso de Influência: Não recursos de multas até hoje.
 2-Renavam: 123456789
 3-Chassi: 
 4-Marca / Modelo: BMW
@@ -87,12 +87,12 @@
 24-Serviços do DETRAN: Não existe (m) débito (s) de serviço (s) até ao momento. 
 25-Parcelamento de Serviços do DETRAN: Não existe (m) débito (s) de Parcelamento de Serviço (s) até o presente momento. 
 26-Infrações: Não existe (m) débito (s) de Multa até o presente momento. 
-27-Recurso de Influência: Não recursos de multas até hoje.
+27-Regular: NAO / Placa: JSF1084
 
 
 
 0-Placa: NNX3801
-1-Regular: SIM / Placa: NNX3801
+1-Recurso de Influência: Não recursos de multas até hoje.
 2-Renavam: 1234
 3-Chassi: ggggggg
 4-Marca / Modelo: CLASSIC
@@ -118,6 +118,6 @@
 24-Serviços do DETRAN: Não existe (m) débito (s) de serviço (s) até ao momento. 
 25-Parcelamento de Serviços do DETRAN: Não existe (m) débito (s) de Parcelamento de Serviço (s) até o presente momento. 
 26-Infrações: Não existe (m) débito (s) de Multa até o presente momento. 
-27-Recurso de Influência: Não recursos de multas até hoje.
+27-Regular: SIM / Placa: NNX3801
 -------------------------------------------------- --------------------------------
 -------------------------------------------------- -------------------------------------
