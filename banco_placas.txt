@@ -25,7 +25,7 @@
 24-Serviços do DETRAN: Não existe (m) débito (s) de serviço (s) até ao momento. 
 25-Parcelamento de Serviços do DETRAN: Não existe (m) débito (s) de Parcelamento de Serviço (s) até o presente momento. 
 26-Infrações: Não existe (m) débito (s) de Multa até o presente momento. 
-27-Regular: NAO / Placa: FMW3777  testando
+27-Regular: NAO / Placa: FMW3777  
 
 
 
